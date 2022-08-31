@@ -1,0 +1,8 @@
+#block-navigationribbon .navbar-nav {
+	flex-direction: initial;
+}
+
+div.nav_additional {
+	background: #1E407C;
+	color: #fff;
+}

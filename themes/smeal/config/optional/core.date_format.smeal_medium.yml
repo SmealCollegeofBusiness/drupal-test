@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    theme:
+      - smeal
+id: smeal_medium
+label: 'Smeal Medium'
+locked: false
+pattern: 'j  F,  Y'
