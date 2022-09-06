@@ -30,6 +30,7 @@ regions:
   sidebar_first: 'Sidebar first'
   sidebar_second: 'Sidebar second'
   footer: Footer
+  Ians_Place: 'Ians Place'
 
 # Information added by Drupal.org packaging script on 2022-08-06
 version: '2.0.0'
